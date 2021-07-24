@@ -383,11 +383,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 #hero h2 {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(0, 0, 0, 0.6);
   margin-bottom: 50px;
   font-size: 24px;
 }
@@ -402,12 +402,12 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 50px;
   transition: 0.5s;
   margin: 10px 0 0 0;
-  color: #fff;
-  background: #47b2e4;
+  color: rgb(255, 255, 255);
+  background: #000000;
 }
 
 #hero .btn-get-started:hover {
-  background: #209dd8;
+  background: #4d4d4d;
 }
 
 #hero .btn-watch-video {
